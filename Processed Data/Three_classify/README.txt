@@ -1,0 +1,1 @@
+存放NORMAL、BUMP、COLLISION的训练集和测试集
